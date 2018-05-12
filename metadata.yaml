@@ -1,0 +1,26 @@
+_repo: Systematics-of-Megachiropteran-Bats-in-the-Solomon-Islands_40112
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40112-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillips, Carleton J.
+    gutenberg_agent_id: '40420'
+    url: http://www.gutenberg.org/2009/agents/40420
+description: ''
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40112'
+  lccn: '72626183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bats -- Solomon Islands'
+- !lcc 'QL'
+- !lcc 'QH'
+title: Systematics of Megachiropteran Bats in the Solomon Islands
+url: http://www.gutenberg.org/ebooks/40112
